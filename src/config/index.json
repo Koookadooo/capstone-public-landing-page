@@ -76,6 +76,28 @@
       }
     ]
   },
+  "whySnapshot": {
+    "title": "",
+    "subtitle": "Why our Product Snapshot?",
+    "description": "This is why",
+    "items": [
+      {
+        "name": "",
+        "description": ""
+      }
+    ]
+  },
+  "documentation": {
+    "title": "",
+    "subtitle": "Where to find help?",
+    "description": "Here",
+    "items": [
+      {
+        "name": "",
+        "description": ""
+      }
+    ]
+  },
   "pricing": {
     "title": "Pricing",
     "items": [

@@ -1,11 +1,13 @@
 import React from 'react';
 
 import Canvas from '../components/Canvas';
+import Documentation from '../components/Documentation';
 import Features from '../components/Features';
 import LazyShow from '../components/LazyShow';
 import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
 import Product from '../components/Product';
+import WhyProductSnaphot from '../components/WhyProductSnapshot';
 
 const App = () => {
   return (
@@ -29,6 +31,8 @@ const App = () => {
       </LazyShow>
       <LazyShow>
         <>
+          <WhyProductSnaphot />
+          <Documentation />
           <Features />
         </>
       </LazyShow>
