@@ -61,6 +61,26 @@
       }
     ]
   },
+  "details": {
+    "title": "Why our Product Snapshot?",
+    "items": [
+      {
+        "title": "Integration with Qorvo's existing suite of tools",
+        "description": "Details about new vs old",
+        "img": "/assets/images/integration.png"
+      },
+      {
+        "title": "Modification of Testing Limits:",
+        "description": " Adjust test limits to meet changing requirements and standards.",
+        "img": "/assets/images/testLimits.png"
+      },
+      {
+        "title": "Analysis of Material Performance: ",
+        "description": "Examine production trends and pass/failure rates to enhance quality control.",
+        "img": "/assets/images/results.png"
+      }
+    ]
+  },
   "features": {
     "title": "",
     "subtitle": "Development Tools",
