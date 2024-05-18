@@ -62,22 +62,22 @@
     ]
   },
   "details": {
-    "title": "Why our Product Snapshot?",
+    "title": "Why Product Snapshot?",
     "items": [
       {
         "title": "Integration with Qorvo's existing suite of tools",
-        "description": "Details about new vs old",
+        "description": "Details about new vs old. Why is the project/product better than the competition? (e.g., value proposition)",
         "img": "/assets/images/integration.png"
       },
       {
         "title": "In application documentation:",
-        "description": " description",
+        "description": "Where can I find help? Where's the documentation? Whom can I contact to learn more (or how)? ",
         "img": "/assets/images/documentation.png"
       },
       {
-        "title": "Analysis of Material Performance: ",
-        "description": "Examine production trends and pass/failure rates to enhance quality control.",
-        "img": "/assets/images/results.png"
+        "title": "One more thing?",
+        "description": "Where/how can I download/run/use what's being offered? What's the repository (if any)?",
+        "img": "/assets/images/changethis"
       }
     ]
   },
