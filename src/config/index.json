@@ -66,12 +66,12 @@
     "items": [
       {
         "title": "Integration with Qorvo's existing suite of tools",
-        "description": "Details about new vs old. Why is the project/product better than the competition? (e.g., value proposition)",
+        "description": "Gone are the days of the old Product Snapshot standalone tool. Now Product Snapshot is directly integrated with Qrovo's existing suite of tools.",
         "img": "/assets/images/integration.png"
       },
       {
         "title": "In application documentation:",
-        "description": "Where can I find help? Where's the documentation? Whom can I contact to learn more (or how)? ",
+        "description": "Documentation for all of Qorvo's tools can be found within the 'Documentation' section of the website. Here you can also find the link to contact support if issues arise.",
         "img": "/assets/images/documentation.png"
       },
       {
