@@ -1,6 +1,6 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "Product Snapshot",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
@@ -12,7 +12,6 @@
       "name": "Features",
       "href": "features"
     },
-
     {
       "name": "Pricing",
       "href": "pricing"
@@ -27,10 +26,10 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Product Snapshot:          ",
+    "title": "Product Snapshot: ",
     "subtitle": "A Data Analytics Tool for Material Engineers",
     "members": "Team: Austin Martin and Daniel Helm",
-    "description": "Product Snapshot is a software tool that enhances material engineering at Qorvo by enabling efficient production part lookup, real-time data integration, and detailed analysis of production trends and performance metrics.",
+    "description": "Product Snapshot is a custom built data analytics tool for material engineers at the semiconductor manufacturing company Qorvo, designed to streamline production part lookup, integrate real-time data, and analyze production trends and performance metrics. By allowing adjustments to testing limits and test plans, engineers can simulate new runs and gain valuable insights to optimize the manufacturing process.",
     "img": "/assets/images/closeupComputerParts.jpg",
     "primaryAction": {
       "text": "Get started",
@@ -45,78 +44,91 @@
     "title": "Key Features",
     "items": [
       {
-        "title": "Part Lookup by Code and Date:",
-        "description": "Quickly find parts using specific codes and date ranges.",
+        "title": "Part Lookup by Code and Date",
+        "description": "Quickly locate parts using specific codes and date ranges, streamlining the search process.",
         "img": "/assets/images/codeAndDate.png"
       },
       {
-        "title": "Modification of Testing Limits:",
-        "description": " Adjust test limits to meet changing requirements and standards.",
+        "title": "Modification of Testing Limits",
+        "description": "Adjust test limits to meet evolving requirements and standards, ensuring accurate and relevant data analysis.",
         "img": "/assets/images/testLimits.png"
       },
       {
-        "title": "Analysis of Material Performance: ",
-        "description": "Examine production trends and pass/failure rates to enhance quality control.",
+        "title": "Analysis of Material Performance",
+        "description": "Examine production trends and pass/failure rates to enhance quality control and optimize manufacturing processes.",
         "img": "/assets/images/results.png"
       }
     ]
   },
   "details": {
-    "title": "Why Product Snapshot?",
+    "title": "Core Benefits",
     "items": [
       {
-        "title": "Integration with Qorvo's existing suite of tools",
-        "description": "Gone are the days of the old Product Snapshot standalone tool. Now Product Snapshot is directly integrated with Qrovo's existing suite of tools.",
+        "title": "Integration with Qorvo's Existing Suite of Tools",
+        "description": "The new Product Snapshot is directly integrated with Qorvo's suite of tools, providing a seamless and unified user experience.",
         "img": "/assets/images/integration.png"
       },
       {
-        "title": "In application documentation:",
-        "description": "Documentation for all of Qorvo's tools can be found within the 'Documentation' section of the website. Here you can also find the link to contact support if issues arise.",
+        "title": "In-Application Documentation",
+        "description": "Access comprehensive documentation within the application, including support contacts and detailed guides for using all of Qorvo's tools.",
         "img": "/assets/images/documentation.png"
       },
       {
-        "title": "One more thing?",
-        "description": "Where/how can I download/run/use what's being offered? What's the repository (if any)?",
-        "img": "/assets/images/changethis"
+        "title": "Customized to Fit Specific Needs",
+        "description": "Unlike the previous version built with Spotfire, this tool is custom-built using React and MirageJS to better meet the specific needs of Qorvo's material engineers. It seamlessly integrates with their current suite of data analysis tools, ensuring all tools are located in one place."
       }
     ]
   },
   "features": {
-    "title": "",
-    "subtitle": "Development Tools",
+    "title": "Development Tools",
+    "subtitle": "Technologies Used",
     "description": "",
     "items": [
       {
         "name": "React.js",
-        "description": "Used to create an intuitive and visually appealing user interface."
+        "description": "Utilized to create an intuitive and visually appealing user interface."
       },
       {
         "name": "MirageJS",
-        "description": "Used to simulate backend functionalities. The backend is where data processing and management occur, essential for supporting the user interface. This allowed for pre-testing of features before full integration."
+        "description": "Employed to simulate backend functionalities during development, ensuring robust testing and seamless integration."
       }
     ]
   },
   "whySnapshot": {
-    "title": "",
-    "subtitle": "Why our Product Snapshot?",
-    "description": "new vs old?",
+    "title": "Why Our Product Snapshot?",
+    "subtitle": "A Superior Tool for Material Engineers",
+    "description": "Our Product Snapshot offers enhanced customization, better integration, and superior performance compared to existing solutions. Built from the ground up with modern technologies, it provides material engineers with a powerful tool to optimize manufacturing processes and gain valuable insights into production data.",
     "items": [
       {
-        "name": "",
-        "description": ""
+        "name": "Enhanced Customization",
+        "description": "Tailored specifically to meet the unique needs of Qorvo's material engineers."
+      },
+      {
+        "name": "Seamless Integration",
+        "description": "Fully integrated with Qorvo's existing suite of analytical tools."
       }
     ]
   },
   "documentation": {
-    "title": "",
-    "subtitle": "Where to find help?",
-    "description": "in app documentation?",
+    "title": "User Guides and Support",
     "items": [
       {
-        "name": "",
-        "description": ""
+        "title": "Comprehensive Documentation for Qorvo Employees",
+        "description": "In-application documentation is available for all of Qorvo's tools, along with contact information for support. This ensures that material engineers have all the resources they need to effectively use the Product Snapshot."
+      },
+      {
+        "title": "Non-Qorvo Users",
+        "description": "Because this tool is custom-built for Qorvo, non-Qorvo users will not have access to the application or codebase. However, custom built apps can be developed for other companies based on their specific needs."
+      },
+      {
+        "title": "Contact Information",
+        "description": "If you would like to learn more about Product Snapshot or custom built data analytics tools, please contact Austin Martin or Daniel Helm."
       }
-    ]
+    ],
+    "bottomImage": {
+      "img": "/assets/images/contacts.png",
+      "alt": "Contact Info"
+    }
   },
   "pricing": {
     "title": "Pricing",
@@ -136,7 +148,6 @@
         "name": "Pro",
         "price": "$15",
         "priceDetails": "per user",
-
         "features": [
           "5 users",
           "Priority Support",
@@ -160,24 +171,14 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
+        "name": "About Product Snapshot",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "Product Snapshot is designed to help material engineers at Qorvo efficiently look up production parts by code and date range, analyze production performance, and modify testing limits to gain deeper insights and optimize manufacturing processes. Built with modern technologies such as React and Python Flask, it offers enhanced customization and integration with Qorvo's suite of tools."
       },
       {
-        "name": "Something",
+        "name": "Contact Information",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "For more information about Product Snapshot, contact Austin Martin at martaust@oregonstate.edu or Daniel Helm at helmd@oregonstate.edu."
       }
     ],
     "socialMedia": {
