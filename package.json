@@ -26,6 +26,7 @@
     "styled-jsx-plugin-postcss": "^4.0.1"
   },
   "devDependencies": {
+    "@babel/plugin-transform-typescript": "7.19.3",
     "@next/bundle-analyzer": "^12.0.0",
     "@types/node": "^21.7.3",
     "@types/react": "^17.0.33",
